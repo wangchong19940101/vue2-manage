@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e25a340d-8336-43dd-9fca-e888e94cc30d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/css/app.6d12c836d493fb50301c5b7617774e44.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/fonts/element-icons.b02bdc1.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/0.dde151ef1422a03ab006.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/1.5ba884d47a706a5bd498.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/10.2f7ab8e661f4ee5343e1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/11.c0be4ec3c0db02f2949a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/12.2d4259f885227952e391.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/13.dc6f787024a97505fbc8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/14.e2c4b338715123319d4f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/15.0e1641d41bf26dba77ac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/16.0606850fea30a0114ace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/2.fb5422a4486b21091142.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/3.ac168ca324b66b0b29d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/4.de58e0d25fc60bcf6a8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/5.7116614802a7c6ad141a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/6.3dc1d7da5ad220b672f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/7.4d81a0ee851053bb0b8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/8.d13204fa2d3414057a24.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/9.a7a4a314ef6eb8204b4c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/app.ff8667600e5a62052e5b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/manifest.e713dc35bc88c0c34414.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/dists/static/js/vendor.be6cd493545f5e20a1d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/css/app.bfc6027eb57c9d880f3e199b102e1683.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/fonts/element-icons.b02bdc1.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/0.dde151ef1422a03ab006.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/1.5ba884d47a706a5bd498.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/10.2f7ab8e661f4ee5343e1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/11.c0be4ec3c0db02f2949a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/12.2d4259f885227952e391.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/13.dc6f787024a97505fbc8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/14.e2c4b338715123319d4f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/15.0e1641d41bf26dba77ac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/16.0606850fea30a0114ace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/2.fb5422a4486b21091142.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/3.ac168ca324b66b0b29d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/4.de58e0d25fc60bcf6a8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/5.7116614802a7c6ad141a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/6.3dc1d7da5ad220b672f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/7.4d81a0ee851053bb0b8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/8.d13204fa2d3414057a24.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/9.a7a4a314ef6eb8204b4c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/app.ff8667600e5a62052e5b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/manifest.34083a51743af109a690.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dists/static/js/vendor.be6cd493545f5e20a1d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/manage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage/static/css/app.5657427e113b5178acfa11e8cc24cfb1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage/static/js/manifest.ae6c056157392854faac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="e25a340d-8336-43dd-9fca-e888e94cc30d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -74,16 +22,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="218">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -122,18 +70,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
               <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/home.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-              <folding>
-                <element signature="e#1327#1370#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,11 +115,6 @@
             <path>
               <item name="vue2-manage" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue2-manage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue2-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue2-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue2-manage" type="b2602c69:ProjectViewProjectNode" />
@@ -242,16 +173,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547025710974</updated>
-      <workItem from="1547025714001" duration="4105000" />
+      <workItem from="1547025714001" duration="4871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4105000" />
+    <option name="totallyTimeSpent" value="4871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -297,6 +227,20 @@
     <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/prod.env.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -313,22 +257,15 @@
     <entry file="file://$PROJECT_DIR$/build/build.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
